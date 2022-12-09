@@ -1,0 +1,23 @@
+{
+  "short_name": "bharatswap",
+  "name": "bharatswap",
+  "description": "The World’s 1st Cake Coin",
+  "homepage_url": "https://bharatswap.finance/",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5082a8",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
